@@ -1,4 +1,4 @@
-# React Parent-Child Lab
+# React Parent-Child Lab: Build-a-Blog
 
 ![Build a Blog Preview](./build-a-blogpreview.png)
 
