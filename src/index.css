@@ -10,7 +10,7 @@
 
 *,
 *::before,
-*::after { 
+*::after {
   box-sizing: border-box;
 }
 html {
@@ -32,6 +32,7 @@ body {
   margin: 0 auto;
   border: 0;
   padding: 1rem;
+  padding-right: 1.3rem;
 }
 img {
   height: auto;
@@ -83,13 +84,13 @@ img {
   padding: 1em;
 }
 .cards-item.quarter {
-  width: calc(25% - 2em);
+  width: calc(25% - 0em);
 }
 .cards-item.half {
-  width: calc(50% - 2em);
+  width: calc(50% - 0em);
 }
 .cards-item.third {
-  width: calc(33% - 2em);
+  width: calc(33% - 0em);
 }
 @media(max-width: 900px) {
   .cards-item.quarter, .cards-item.half, .cards-item.third{
